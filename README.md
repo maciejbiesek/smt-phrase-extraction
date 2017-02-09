@@ -5,7 +5,8 @@ It parses GIZA++ output format then run grow-diag-final-and algorithm and finall
 
 To run:
 > python main.py [fe_file] [ef_file]
+
 Both files has to be in GIZA++ format.
 
 For example:
-> python main.py data/pt-pl pl-pt
+> python main.py data/pt-pl data/pl-pt
