@@ -1,0 +1,6 @@
+﻿# Sentence pair (1) source length 7 target length 8 alignment score : 6.4647e-19
+przez 3 tygodnie nie ruszyłeś tych piratów . 
+NULL ({ }) nem ({ 4 }) um ({ }) pirata ({ 5 6 7 }) em ({ 1 }) três ({ 2 }) semanas ({ 3 }) . ({ 8 }) 
+# Sentence pair (2) source length 5 target length 5 alignment score : 8.359e-05
+- tak , sir . 
+NULL ({ }) - ({ 1 }) Sim ({ 2 }) , ({ 3 }) senhor ({ 4 }) . ({ 5 }) 
